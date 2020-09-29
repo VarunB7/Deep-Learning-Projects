@@ -1,0 +1,2 @@
+This project intends to analyse the factors that have caused churn rates in the bank and hence predict the customers who will stay or leave the bank in the further days based on
+factors such as credit score, balance, annual income. This project is implemented using Neural network with 2 hidden layers built using the Tensorflow library.
