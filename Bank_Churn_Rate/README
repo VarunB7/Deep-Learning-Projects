@@ -1,0 +1,19 @@
+This project intends to analyse the factors that have caused churn rates in the bank and hence predict the customers who will stay or leave the bank in the further days based on
+factors such as credit score, balance, annual income.This project also uses geodemographic and gender segmentation in order to predict the actions of present and future customers.
+This project is implemented using Neural network with 2 hidden layers built using the Tensorflow library.
+
+The dependent variable is whether the customer has stayed or exited, it is represented as a binary variable.
+
+The variables such as RowNumber, Surname and Customer ID have no affect on the dependent varible and hence can be neglected.
+Variables which can be considered as independent variables which are directly affecting the denpendent variables are as follows:
+Credit score
+Country
+Gender
+Age
+Bank Balance 
+Annual Income
+Products wih the bank
+Has been issued card
+Active Membership
+Tenure
+
