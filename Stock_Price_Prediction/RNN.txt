@@ -1,0 +1,6 @@
+Recurrent Neural Networks:
+Deep learning is nothing but modelling the synthetic brain, now recurrent neural network can also be associated with a part of the brain based on its working.
+The recurrent neural network is a part of supervised learning which utilizes short term memory in order to predict or to determine the future outcome. 
+
+This type of mechanism can be found in the frontal lobe of the brain, based on this the RNN can be used in applications such as time series forecasting which 
+predominantly uses the previous results which are temporarily stored in order predict the future outcomes
